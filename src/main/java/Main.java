@@ -11,6 +11,7 @@ public class Main {
     public static void main(String[] args) {
         ex5();
         ex1();
+
     }
 
     private static void ex1() { // Range of people
